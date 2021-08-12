@@ -1,0 +1,10 @@
+SMAP
+sendEmailAttachment_jsp.java
+JSP
+*S JSP
+*F
++ 0 sendEmailAttachment.jsp
+test/sendEmailAttachment.jsp
+*L
+1,36:44
+*E
